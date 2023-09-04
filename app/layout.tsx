@@ -6,8 +6,8 @@ import { Inter } from 'next/font/google';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-  title: 'Wall-E AI',
-  description: 'AI Assistant App',
+  title: 'Projecto | Next + TS + Tailwind + Clerk SAAS Template',
+  description: 'SAAS Template with Next.js and Clerk Set up',
 };
 
 export default function RootLayout({
